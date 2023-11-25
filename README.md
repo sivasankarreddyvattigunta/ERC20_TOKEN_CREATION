@@ -32,6 +32,10 @@ Once deployed, you can interact with the `MyToken` contract using the following 
   - Parameters:
     - `value`: The amount of tokens to burn.
 
+## Author
+
+[VATTIGUNTA SIVA SANKAR REDDY](https://github.com/sivasankarreddyvattigunta)
+
 ## License
 
 This contract is released under the MIT License. 
